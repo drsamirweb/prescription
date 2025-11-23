@@ -26,9 +26,7 @@ export default async function Page({
       </p>
       <div className="w-1/5 border-2 border-t border-gray-300 my-6" />
 
-      <main className="w-full max-w-sm space-y-4">
-        <PrescriptionForm />
-      </main>
+      <PrescriptionForm />
     </div>
   );
 }

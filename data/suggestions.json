@@ -1,0 +1,9 @@
+{
+  "chiefComplaint": ["Fever", "Cough", "Headache", "Chest pain", "Abdominal pain"],
+  "history": ["Diabetes mellitus", "Hypertension", "Asthma", "No significant past history"],
+  "diagnosis": ["Viral fever", "Acute bronchitis", "Tension headache", "Acute gastritis"],
+  "rx": ["Paracetamol 500 mg", "Amoxicillin 500 mg", "Omeprazole 20 mg"],
+  "advices": ["Drink plenty of fluids", "Take rest", "Avoid oily food"],
+  "followUp": ["1 week", "2 weeks", "1 month", "As needed"],
+  "referredTo": ["Cardiologist", "Dermatologist", "Orthopedic surgeon"]
+}

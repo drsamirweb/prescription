@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "BRAC Healthcare Limited",
+    "address": "House 15, Road 12, Sector 06, Uttara, Dhaka- 1230"
+  },
+  {
+    "id": 2,
+    "name": "Omnicare Diagnostic Limited",
+    "address": "220/A, Begum Rokeya Avenue, Shewrapara, Dhaka 1207"
+  },
+  {
+    "id": 3,
+    "name": "Chamber C",
+    "address": ""
+  },
+  {
+    "id": 4,
+    "name": "Chamber D",
+    "address": ""
+  },
+  {
+    "id": 5,
+    "name": "Chamber E",
+    "address": ""
+  }  
+]

@@ -1,0 +1,11 @@
+{
+  "name": "Prescription PWA",
+  "short_name": "Rx",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "description": "Offline-first prescription generator",
+  "icons": []
+}

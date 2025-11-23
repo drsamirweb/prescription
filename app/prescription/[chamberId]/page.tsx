@@ -17,7 +17,7 @@ export default async function Page({
   }
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen">
+    <div className="flex flex-col items-center justify-center min-h-screen py-12">
       <h1 className="text-3xl font-bold">
         {chambers.find((item) => String(item.id) === chamberId)?.name}
       </h1>
@@ -26,7 +26,9 @@ export default async function Page({
       </p>
       <div className="w-1/5 border-2 border-t border-gray-300 my-6" />
 
-      <PrescriptionForm />
+      <div className="w-full max-w-md">
+        <PrescriptionForm />
+      </div>
     </div>
   );
 }
